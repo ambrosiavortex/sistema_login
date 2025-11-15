@@ -1,0 +1,15 @@
+.pagina-admin{
+    display: flex;
+    color: white;
+    gap:1000px;
+
+    .esquerda{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .direita{
+        display: flex;
+        flex-direction: column;
+    }
+}

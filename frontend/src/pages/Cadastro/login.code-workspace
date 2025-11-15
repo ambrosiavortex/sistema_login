@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "../../../../../../Área de trabalho/backend"
+		},
+		{
+			"name": "frontend",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
